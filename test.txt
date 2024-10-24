@@ -1,0 +1,3 @@
+video -> use whisper to get audio part -> feed into gpt
+video part -> feed gpt frame images
+combine
